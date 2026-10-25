@@ -1,5 +1,5 @@
 class Grubby < Formula
-  desc "Terminal cockpit TUI for GitHub repositories, PRs, and workspaces"
+  desc "A grubby little UI for GitHub - Cockpit TUI for repos, PRs, and workspaces"
   homepage "https://github.com/simonbronner/grubby"
   version "1"
   license "MIT"
